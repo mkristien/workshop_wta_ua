@@ -1,0 +1,2 @@
+text start
+type some words
