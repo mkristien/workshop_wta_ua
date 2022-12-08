@@ -2,3 +2,6 @@ git clone
 git add
 git commit
 git push
+
+git conflicts
+and also merging
