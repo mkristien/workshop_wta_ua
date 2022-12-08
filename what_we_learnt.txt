@@ -2,6 +2,10 @@ git clone
 git add
 git commit
 git push
+<<<<<<< Updated upstream
+=======
 
 git conflicts
 and also merging
+some new info here
+>>>>>>> Stashed changes
